@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:blue;">
 
-<h1>WELCOME TO DEVOPS</h1>
+<h1>WELCOME TO DEVOPSHUB</h1>
 
 
 </body>
